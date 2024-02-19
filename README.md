@@ -1,6 +1,6 @@
 # CalculatorApp
 
-CalculatorApp is a basic arithmetic calculator implemented in Racket with a graphical user interface (GUI). It supports fundamental operations like addition, subtraction, multiplication, and division. This project is ideal for those beginning with Racket and GUI programming, demonstrating how to build a simple, user-friendly application.
+CalculatorApp is a basic arithmetic calculator implemented in DrRacket with a graphical user interface (GUI). It supports fundamental operations like addition, subtraction, multiplication, and division. This project is ideal for those beginning with Racket and GUI programming, demonstrating how to build a simple, user-friendly application.
 
 ## Features
 
